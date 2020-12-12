@@ -1,4 +1,6 @@
 # EjerciciosIV
-- [Ejercicios Milestone 4](https://github.com/antoniorev/EjerciciosIV/tree/main/Milestone4)
+- [Ejercicios H4](https://github.com/antoniorev/EjerciciosIV/tree/main/H4)
 
-- [Ejercicios Milestone 5](https://github.com/antoniorev/EjerciciosIV/tree/main/Milestone5)
+- [Ejercicios H5](https://github.com/antoniorev/EjerciciosIV/tree/main/H5)
+
+- [Ejercicios H6](https://github.com/antoniorev/EjerciciosIV/tree/main/H6)
